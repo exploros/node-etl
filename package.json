@@ -15,9 +15,9 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "~3.5.0",
-    "csv-parser": "~1.8.0",
+    "csv-parser": "^3.0.0",
     "duplexer3": "^0.1.4",
-    "moment": "~2.21.0",
+    "moment": "^2.29.3",
     "streamz": "~1.8.10"
   },
   "devDependencies": {
@@ -26,7 +26,7 @@
     "mysql": "^2.17.1",
     "pg": "~6.2.3",
     "pg-query-stream": "~1.0.0",
-    "tap": "^14.6.9",
-    "url-js": "^0.2.5"
+    "tap": "^16.1.0",
+    "url-js": "^2.1.0"
   }
 }
